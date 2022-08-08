@@ -1,0 +1,2 @@
+# Telecom-Customer-churn-prediction-system
+- Each row in the dataset represents a customer, and each column contains the     customer’s attributes described in the column Metadata. - The raw data contains 7043 rows (customers) and 21 columns (features). - Built a Predictive Churn Model and Used its output to generate a target list. - Scaled the variables in logistic regression that helped to improve the accuracy     from 79.7% to 80.7% - With SVM Algorithm is able to increase the accuracy to up to 82%. - XG Boost Algorithm increased the accuracy of test data to almost 83%.
